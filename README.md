@@ -1,0 +1,1 @@
+Programin amaci on bin tane atilan zarin alti alti gelenleri bulmaktir. Yani zarin duses gelme durumunu bulmaktadir.
